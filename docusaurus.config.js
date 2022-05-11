@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Community 487:',
+  title: 'Community Meta App:',
   tagline: 'communication, community engagement & quality of life.',
   url: 'https://community-meta-app.vercel.app/',
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'C487',
+        title: 'Community Meta App',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/asialakay',
               },
             ],
           },
@@ -115,12 +115,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'xhttps://github.com/asiakay/community-meta-app',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Community-Meta-App. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
