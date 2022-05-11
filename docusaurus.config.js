@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Community Meta App:',
+  title: 'Community Meta App',
   tagline: 'communication, community engagement & quality of life.',
   url: 'https://community-meta-app.vercel.app/',
   baseUrl: '/',
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Community-Meta-App. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Community Meta App. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
