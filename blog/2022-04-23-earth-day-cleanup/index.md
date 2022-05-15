@@ -21,6 +21,8 @@ The ocean is filling up with plastic. The issue with this fact is that [animals 
 ![In the Ocean, It's Snowing Microplastics](./images/plastics_in_the_ocean_lesstext.jpeg)
 Source: [A Guide to Plastic in the Ocean - It’s a problem, but it’s one we can do something about](https://oceanservice.noaa.gov/hazards/marinedebris/plastics-in-the-ocean.html)
 
+### Earth Day 2022 Community Cleanup Day ###
+
 ![cleanup before](./IMG_6327_before_1.jpeg)
 
 > The litter shown in the image above consists of mostly **single use bags, food wrappers, drink bottles, and cigarette packaging**.
