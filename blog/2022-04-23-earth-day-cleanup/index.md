@@ -1,5 +1,5 @@
 ---
-slug: earth-day
+slug: earth-day-365
 title: Making Everyday Earth Day
 authors: [asiak]
 tags: [facebook, hello, docusaurus, community]
