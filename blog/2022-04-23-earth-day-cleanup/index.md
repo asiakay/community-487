@@ -39,7 +39,7 @@ Source: [A Guide to Plastic in the Ocean - It’s a problem, but it’s one we c
 
 The proceeds from the recycling effort will benefit the [New England Wildlife Center](https://www.newildlife.org/). 
 
-![Change is adding up](./IMG_6750.jpeg)
+![Change is adding up](./receipts.png)
 
 #### We're looking at CREATIVE WAYS TO REUSE PLASTIC that would otherwise have gotten thrown away ####
 
