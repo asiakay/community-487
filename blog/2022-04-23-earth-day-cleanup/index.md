@@ -2,7 +2,7 @@
 slug: earth-day-365
 title: Making Everyday Earth Day
 authors: [asiak]
-tags: [facebook, hello, docusaurus, community]
+tags: [facebook, Earth Day, community, art, fundraiser]
 ---
 ## The Origin of Earth Day ##
 Earth Day started as a response to a huge oil spill. It got the attention of a lot of people from all walks of life. The first Earth Day was a coordinated effort that included protests across the country. The result of the people coming together for the sake of the environment resulted in the formation of the EPA, or Environmental Protection Agency. 

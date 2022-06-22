@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'asiakay', // Usually your GitHub org/user name.
-  projectName: 'community-meta-app', // Usually your repo name.
+  projectName: 'community-487', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -59,7 +59,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Community Meta App',
+        title: 'Community 487',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -71,7 +71,7 @@ const config = {
             position: 'left',
             label: 'Community',
           }, */
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/asiakay/community-meta-app',
             label: 'GitHub',
@@ -79,7 +79,7 @@ const config = {
           },
         ],
       },
-      footer: {
+      /* footer: {
         style: 'dark',
         links: [
           {
@@ -122,8 +122,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Community Meta App. Built with Docusaurus.`,
-      },
+        copyright: `Copyright © ${new Date().getFullYear()} Community 487 App. Built with Docusaurus.`,
+      }, */
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
