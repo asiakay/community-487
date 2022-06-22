@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Community Meta App',
-  tagline: 'communication, community engagement & quality of life.',
+  tagline: 'Please excuse our appearance while we are under construction. Thanks!',
   url: 'https://community-meta-app.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
